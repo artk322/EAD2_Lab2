@@ -15,7 +15,7 @@
 <div class="row justify-content-center mt-5 mx-0">
     <div class="col-lg-5 col-md-8 col-sm-10 col-12">
         <div class="jumbotron py-4">
-            <form>
+            <form action="LoginServlet" method="post">
                 <h3 class="text-center">Login</h3>
                 <div class="form-group">
                     <label for="email" class="required">Email</label>
